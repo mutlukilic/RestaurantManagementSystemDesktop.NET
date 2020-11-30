@@ -1,0 +1,24 @@
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmGiris.resources
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.Cache
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\LTS PC\Documents\Visual Studio 2015\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmGiris.resources
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.Cache
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmMenu.resources
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmMasalar.resources
+C:\Users\LTS PC\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmSiparis.resources
+C:\Users\LTS PC\Desktop\Masaüstü\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\LTS PC\Desktop\Masaüstü\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\LTS PC\Desktop\Masaüstü\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
